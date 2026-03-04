@@ -1,5 +1,9 @@
 # AgendaFuturista
 
+![Logo](https://github.com/Cati94/Agenda_Cobol/blob/main/ChatGPT%20Image%20Mar%204%2C%202026%2C%2004_17_14%20PM.png)
+
+
+
 Sistema de gestão de compromissos desenvolvido em COBOL (GNUCobol), com
 persistência em ficheiro sequencial e arquitetura procedural
 estruturada.
